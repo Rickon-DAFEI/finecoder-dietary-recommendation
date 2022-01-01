@@ -1,0 +1,88 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper",
+      "type": "com.github.pagehelper.autoconfigure.PageHelperProperties"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperAutoConfiguration",
+      "name": "pagehelper",
+      "sourceMethod": "pageHelperProperties()",
+      "type": "java.util.Properties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.auto-dialect",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.auto-runtime-dialect",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.close-conn",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.default-count",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.dialect",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.dialect-alias",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.helper-dialect",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.offset-as-page-num",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.page-size-zero",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.params",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.properties",
+      "type": "java.util.Properties"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.reasonable",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.row-bounds-with-count",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.github.pagehelper.autoconfigure.PageHelperProperties",
+      "name": "pagehelper.support-methods-arguments",
+      "type": "java.lang.String"
+    }
+  ]
+}
